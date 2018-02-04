@@ -14,7 +14,7 @@ sbcl --load game_of_life.lsp [-h] width height
 ```
 
 Some usefull buttons:
-```
+
 **esc** - exit
 **WASD** - image dragging
 **C** - center
@@ -28,7 +28,7 @@ Some usefull buttons:
 **-** - zoom
 **Mouse wheel** - zoom
 **RB + shift** - image dragging
-```
+
 -<img align="left"  src="https://github.com/omiroshn/The-Game-of-Life/blob/master/Image/Screen%20Shot%202018-02-04%20at%2019.31.45.png" width="60%" />-
 -<img align="left"  src="https://github.com/omiroshn/The-Game-of-Life/blob/master/Image/Screen%20Shot%202018-02-04%20at%2019.34.11.png" width="60%" />-
 -<img align="left"  src="https://github.com/omiroshn/The-Game-of-Life/blob/master/Image/Screen%20Shot%202018-02-04%20at%2019.35.01.png" width="60%" />-
