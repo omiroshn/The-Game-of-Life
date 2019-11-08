@@ -10,6 +10,8 @@
 ;;                                                                            ;;
 ;; ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; ;;
 
+(load "~/quicklisp/setup.lisp")
+
 (let* ((*standard-output* (make-broadcast-stream)) (*error-output* *standard-output*))
     (ql:quickload "lispbuilder-sdl")
 )
